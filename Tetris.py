@@ -17,26 +17,6 @@ import math, copy, random
 from cmu_112_graphics import *
 from tkinter import *
 
-#################################################
-# Helper functions
-#################################################
-
-def almostEqual(d1, d2, epsilon=10**-7):
-    # note: use math.isclose() outside 15-112 with Python version 3.5 or later
-    return (abs(d2 - d1) < epsilon)
-
-import decimal
-def roundHalfUp(d):
-    # Round to nearest with ties going away from zero.
-    rounding = decimal.ROUND_HALF_UP
-    # See other rounding options here:
-    # https://docs.python.org/3/library/decimal.html#rounding-modes
-    return int(decimal.Decimal(d).to_integral_value(rounding=rounding))
-
-#################################################
-# Functions for you to write
-#################################################
-
 #defines game dimensions
 def gameDimensions():
     rows = 15
@@ -244,10 +224,6 @@ def drawGameOver(app,canvas):
 def drawScore(app,canvas):
     canvas.create_text(app.width//2,app.margin//2,text='Score: %d' % app.score,
                            fill='black')
-
-#################################################
-# main
-#################################################
 
 def main():
     cs112_f19_week7_linter.lint()
