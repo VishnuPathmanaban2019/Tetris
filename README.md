@@ -13,5 +13,6 @@ HOW TO PLAY:
 9. up arrow: rotate piece
 10. right/left arrows: move piece
 11. down arrow: drop piece
+12. r: restart game
 
 Have fun!
