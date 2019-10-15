@@ -10,7 +10,7 @@ HOW TO PLAY:
 6. Open extracted "Tetris-master" folder
 7. Double-click "Tetris" Python File
 8. Controls:
-9. up arrow: rotate piece
-10. right/left arrows: move piece
-11. down arrow: drop piece
-12. r: restart game
+- up arrow: rotate piece
+- right/left arrows: move piece
+- down arrow: drop piece
+- r: restart game
