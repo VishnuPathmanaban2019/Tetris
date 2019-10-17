@@ -8,6 +8,7 @@
 # - up arrow key to rotate piece
 # - left and right arrow keys to move piece
 # - down arrow key to hard drop piece
+# - r to restart 
 # (Tetris is a game published by Tengen under Atari Games)
 #################################################
 
