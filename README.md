@@ -1,7 +1,7 @@
 # Tetris
 Recreation of the popular arcade game Tetris. (CMU 15-112)
 
-![Tetris](https://ibb.co/sKGMCvW)
+![Tetris](https://imgur.com/cXAXuc8)
 
 HOW TO PLAY:
 1. Download latest version of Python
