@@ -1,5 +1,5 @@
 # Tetris
-Recreation of Tetris by Tengen under Atari Games (CMU 15-112)
+Recreation of the popular arcade game Tetris. (CMU 15-112)
 
 HOW TO PLAY:
 1. Download latest version of Python
