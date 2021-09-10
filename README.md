@@ -1,5 +1,5 @@
 # Tetris
-Recreation of the popular arcade game Tetris. (CMU 15-112)
+Recreation of the popular arcade game Tetris.
 
 ![Tetris](/Tetris.png?raw=true)
 
